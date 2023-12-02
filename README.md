@@ -1,5 +1,2 @@
 # Notes_App
-# Using (
-- cubit
-- local database
-)
+Using ( cubit - local database)
